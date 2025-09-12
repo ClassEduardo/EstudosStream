@@ -5,9 +5,6 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.function.Function;
 
-
-import com.streams.Produto;
-
 public class ExemploGrouping {
     public static void main(String[] args) {
         List<Produto> produtos = List.of(

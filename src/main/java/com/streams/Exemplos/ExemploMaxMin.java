@@ -3,8 +3,6 @@ package com.streams.Exemplos;
 import java.util.Comparator;
 import java.util.List;
 
-import com.streams.Produto;
-
 public class ExemploMaxMin {
     public static void main(String[] args) {
         List<Produto> produtos = List.of(

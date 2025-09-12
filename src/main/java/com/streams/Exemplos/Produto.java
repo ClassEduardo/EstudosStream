@@ -1,4 +1,4 @@
-package com.streams;
+package com.streams.Exemplos;
 
 public class Produto {
     public String nome;

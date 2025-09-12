@@ -1,4 +1,4 @@
-package com.streams;
+package com.streams.StreamsRandom;
 
 import java.util.Arrays;
 import java.util.List;
